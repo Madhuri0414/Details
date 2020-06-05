@@ -1,0 +1,138 @@
+.s1 {
+    background-color: #9485b3;
+    border: 1px solid #9485b3;
+    padding: 121px;
+}
+
+.s2 {
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    width: 76px;
+    height: 71px;
+    position: absolute;
+    margin-left: 46%;
+    margin-top: -5%;
+}
+.user{
+    margin-left: 16px;
+    padding-top: 10px;
+    
+}
+.s3 {
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    height: 65px;
+    text-align: center;
+    color: black;
+    padding: 14px;
+    font-family: serif;
+}
+
+.s4 {
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 20px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+
+.s5{
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 1px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+
+
+.s6,.s7{
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 1px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+.s9,
+.s10,
+.Address,
+.coupons {
+    background-color:#e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 1px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+p{
+    margin-top: -18px;
+    
+}
+
+.profile,.s8 {
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 20px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+
+.settings {
+    background-color: #e6e4e0;
+    border: 1px solid aliceblue;
+    color: black;
+    margin-top: 1px;
+    width: 96%;
+    height: 70px;
+    padding-left: 50px;
+    padding-bottom: 13px;
+}
+
+.log {
+    border: 2px solid red;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+    width: 80%;
+    position: absolute;
+    margin-left: 110px;
+}
+.brief,.help,.insider,.wish{
+    position: absolute;
+    margin-right: 10%;
+    margin-top: -33px;
+    margin-left: -35px;
+}
+.money,.points,.cards,.map{
+    position: absolute;
+    margin-right: 10%;
+    margin-top: -33px;
+    margin-left: -35px;
+}
+.coins,.file,.setting{
+    position: absolute;
+    margin-right: 10%;
+    margin-top: -33px;
+    margin-left: -35px; 
+}
+
+.angle1,.angle2,.angle3,.angle4,.angle5,.angle6,.angle7,.angle8,.angle9,.angle10,.angle11{
+    position: absolute;
+    margin-right: 10%;
+    margin-top: -35px;
+    margin-left: 92%;
+}
